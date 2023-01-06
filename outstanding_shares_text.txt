@@ -1,1 +1,62 @@
-["('https://www.sec.gov/ix?doc=/Archives/edgar/data/66740/000006674022000076/mmm-20220930.htm','Entity Common Stock, Shares Outstanding\nAs of 09/30/2022\n552,742,915\nRevenues\n3 months ending 09/30/2022\n8,619,000,000\nRevenues\n3 months ending 09/30/2021\n8,942,000,000\nRevenues\n9 months ending 09/30/2022\n26,150,000,000\nRevenues\n9 months ending 09/30/2021\n26,743,000,000\nCost of Revenue\n3 months ending 09/30/2022\n4,728,000,000\nCost of Revenue\n3 months ending 09/30/2021\n4,853,000,000\nCost of Revenue\n9 months ending 09/30/2022\n14,647,000,000\nCost of Revenue\n9 months ending 09/30/2021\n14,097,000,000\nSelling, General and Administrative Expense\n3 months ending 09/30/2022\n1,998,000,000')", "('https://www.sec.gov/ix?doc=/Archives/edgar/data/91142/000009114222000101/aos-20220930.htm','Entity Common Stock, Shares Outstanding\nD\nAs of 10/26/2022\n25,905,876\nEntity Common Stock, Shares Outstanding\nD\nAs of 10/26/2022\n126,869,651\nRevenue from Contract with Customer, Excluding Assessed Tax\n3 months ending 09/30/2022\n874,200,000\nRevenue from Contract with Customer, Excluding Assessed Tax\n3 months ending 09/30/2021\n914,600,000\nRevenue from Contract with Customer, Excluding Assessed Tax\n9 months ending 09/30/2022\n2,817,800,000\nRevenue from Contract with Customer, Excluding Assessed Tax\n9 months ending 09/30/2021\n2,543,400,000\nCost of Goods and Services Sold\n3 months ending 09/30/2022\n569,200,000\nCost of Goods and Services Sold\n3 months ending 09/30/2021\n574,300,000\nCost of Goods and Services Sold\n9 months ending 09/30/2022\n1,836,800,000\nCost of Goods and Services Sold\n9 months ending 09/30/2021\n1,593,100,000')"]
+('https://www.sec.gov/ix?doc=/Archives/edgar/data/66740/000006674022000076/mmm-20220930.htm','Entity Common Stock, Shares Outstanding
+As of 09/30/2022
+552,742,915
+Revenues
+3 months ending 09/30/2022
+8,619,000,000
+Revenues
+3 months ending 09/30/2021
+8,942,000,000
+Revenues
+9 months ending 09/30/2022
+26,150,000,000
+Revenues
+9 months ending 09/30/2021
+26,743,000,000
+Cost of Revenue
+3 months ending 09/30/2022
+4,728,000,000
+Cost of Revenue
+3 months ending 09/30/2021
+4,853,000,000
+Cost of Revenue
+9 months ending 09/30/2022
+14,647,000,000
+Cost of Revenue
+9 months ending 09/30/2021
+14,097,000,000
+Selling, General and Administrative Expense
+3 months ending 09/30/2022
+1,998,000,000')
+('https://www.sec.gov/ix?doc=/Archives/edgar/data/91142/000009114222000101/aos-20220930.htm','Entity Common Stock, Shares Outstanding
+D
+As of 10/26/2022
+25,905,876
+Entity Common Stock, Shares Outstanding
+D
+As of 10/26/2022
+126,869,651
+Revenue from Contract with Customer, Excluding Assessed Tax
+3 months ending 09/30/2022
+874,200,000
+Revenue from Contract with Customer, Excluding Assessed Tax
+3 months ending 09/30/2021
+914,600,000
+Revenue from Contract with Customer, Excluding Assessed Tax
+9 months ending 09/30/2022
+2,817,800,000
+Revenue from Contract with Customer, Excluding Assessed Tax
+9 months ending 09/30/2021
+2,543,400,000
+Cost of Goods and Services Sold
+3 months ending 09/30/2022
+569,200,000
+Cost of Goods and Services Sold
+3 months ending 09/30/2021
+574,300,000
+Cost of Goods and Services Sold
+9 months ending 09/30/2022
+1,836,800,000
+Cost of Goods and Services Sold
+9 months ending 09/30/2021
+1,593,100,000')

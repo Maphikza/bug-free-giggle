@@ -71,8 +71,8 @@ if __name__ == "__main__":
         driver.quit()
         time.sleep(3)
         run_logs.append(f"{key}: {company_cik_dict[key]} appended, successfully.")
-        if i == 1:
-            break
+        print(f"{key}")
+        time.sleep(1)
 
     run_logs.append(f"The length of the url list is: {len(data_urls)}")
     time.sleep(1)
@@ -81,7 +81,7 @@ if __name__ == "__main__":
     for link in data_urls:
         service = Service(path)
         driver = webdriver.Chrome(service=service)
-        form_url = link  # data_urls[0]
+        form_url = link
         driver.get(form_url)
 
         filter_data = driver.find_element(By.XPATH, '//*[@id="nav-filter-data"]/span[2]')
