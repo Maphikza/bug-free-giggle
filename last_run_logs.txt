@@ -1,0 +1,5 @@
+3M66740 appended, successfully.
+A. O. Smith91142 appended, successfully.
+The length of the url list is: 2
+https://www.sec.gov/ix?doc=/Archives/edgar/data/66740/000006674022000076/mmm-20220930.htm data is captured successfully.
+https://www.sec.gov/ix?doc=/Archives/edgar/data/91142/000009114222000101/aos-20220930.htm data is captured successfully.
