@@ -1,5 +1,999 @@
-3M: 66740 appended, successfully.
-A. O. Smith: 91142 appended, successfully.
-The length of the url list is: 2
+0 3M: 66740 appended, successfully.
 (https://www.sec.gov/ix?doc=/Archives/edgar/data/66740/000006674022000076/mmm-20220930.htm) - data was captured successfully.
+1 A. O. Smith: 91142 appended, successfully.
 (https://www.sec.gov/ix?doc=/Archives/edgar/data/91142/000009114222000101/aos-20220930.htm) - data was captured successfully.
+2 Abbott: 1800 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/1800/000162828022027550/abt-20220930.htm) - data was captured successfully.
+3 AbbVie: 1551152 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/1551152/000155115222000045/abbv-20220930.htm) - data was captured successfully.
+4 Accenture: 1467373 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/1467373/000146737322000370/acn-20221130.htm) - data was captured successfully.
+5 Activision Blizzard: 718877 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/718877/000162828022028658/atvi-20220930.htm) - data was captured successfully.
+6 ADM: 7084 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/7084/000000708422000029/adm-20220930.htm) - data was captured successfully.
+7 Adobe Inc.: 796343 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/796343/000079634322000196/adbe-20220902.htm) - data was captured successfully.
+8 ADP: 8670 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/8670/000000867022000046/adp-20220930.htm) - data was captured successfully.
+9 Advance Auto Parts: 1158449 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/1158449/000115844922000268/aap-20221008.htm) - data was captured successfully.
+10 AES Corporation: 874761 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/874761/000087476122000073/aes-20220930.htm) - data was captured successfully.
+11 Aflac: 4977 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/4977/000000497722000145/afl-20220930.htm) - data was captured successfully.
+12 Agilent Technologies: 1090872 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/1090872/000109087222000026/a-20221031.htm) - data was captured successfully.
+13 Air Products and Chemicals: 2969 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/2969/000000296922000054/apd-20220930.htm) - data was captured successfully.
+14 Akamai: 1086222 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/1086222/000108622222000251/akam-20220930.htm) - data was captured successfully.
+15 Alaska Air Group: 766421 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/766421/000076642122000071/alk-20220930.htm) - data was captured successfully.
+16 Albemarle Corporation: 915913 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/915913/000091591322000167/alb-20220930.htm) - data was captured successfully.
+17 Alexandria Real Estate Equities: 1035443 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/1035443/000103544322000308/are-20220930.htm) - data was captured successfully.
+18 Align Technology: 1097149 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/1097149/000109714922000067/algn-20220930.htm) - data was captured successfully.
+19 Allegion: 1579241 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/1579241/000157924122000063/alle-20220930.htm) - data was captured successfully.
+20 Alliant Energy: 352541 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/352541/000035254122000082/lnt-20220930.htm) - data was captured successfully.
+21 Allstate: 899051 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/899051/000089905122000079/all-20220930.htm) - data was captured successfully.
+22 Alphabet Inc. (Class A): 1652044 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/1652044/000165204422000090/goog-20220930.htm) - data was captured successfully.
+23 Alphabet Inc. (Class C): 1652044 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/1652044/000165204422000090/goog-20220930.htm) - data was captured successfully.
+24 Altria: 764180 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/764180/000076418022000102/mo-20220930.htm) - data was captured successfully.
+25 Amazon: 1018724 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/1018724/000101872422000023/amzn-20220930.htm) - data was captured successfully.
+26 Amcor: 1748790 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/1748790/000174879022000034/amcr-20220930.htm) - data was captured successfully.
+27 AMD: 2488 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/2488/000000248822000170/amd-20220924.htm) - data was captured successfully.
+28 Ameren: 1002910 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/1002910/000100291022000087/aee-20220930.htm) - data was captured successfully.
+29 American Airlines Group: 6201 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/6201/000000620122000086/aal-20220930.htm) - data was captured successfully.
+30 American Electric Power: 4904 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/4904/000000490422000093/aep-20220930.htm) - data was captured successfully.
+31 American Express: 4962 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/4962/000000496222000054/axp-20220930.htm) - data was captured successfully.
+32 American International Group: 5272 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/5272/000000527222000027/aig-20220930.htm) - data was captured successfully.
+33 American Tower: 1053507 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/1053507/000105350722000118/amt-20220930.htm) - data was captured successfully.
+34 American Water Works: 1410636 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/1410636/000141063622000155/awk-20220930.htm) - data was captured successfully.
+35 Ameriprise Financial: 820027 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/820027/000082002722000088/amp-20220930.htm) - data was captured successfully.
+36 AmerisourceBergen: 1140859 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/1140859/000114085922000098/abc-20220930.htm) - data was captured successfully.
+37 Ametek: 1037868 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/1037868/000103786822000054/ame-20220930.htm) - data was captured successfully.
+38 Amgen: 318154 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/318154/000031815422000055/amgn-20220930.htm) - data was captured successfully.
+39 Amphenol: 820313 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/820313/000155837022015585/aph-20220930x10q.htm) - data was captured successfully.
+40 Analog Devices: 6281 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/6281/000000628122000250/adi-20221029.htm) - data was captured successfully.
+41 Ansys: 1013462 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/1013462/000101346222000031/anss-20220930.htm) - data was captured successfully.
+42 Aon: 315293 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/315293/000162828022027307/aon-20220930.htm) - data was captured successfully.
+43 APA Corporation: 1841666 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/1841666/000178403122000028/apa-20220930.htm) - data was captured successfully.
+44 Apple Inc.: 320193 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/320193/000032019322000108/aapl-20220924.htm) - data was captured successfully.
+45 Applied Materials: 6951 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/6951/000000695122000043/amat-20221030.htm) - data was captured successfully.
+46 Aptiv: 1521332 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/1521332/000152133222000056/aptv-20220930.htm) - data was captured successfully.
+47 Arch Capital Group: 947484 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/947484/000094748422000077/acgl-20220930.htm) - data was captured successfully.
+48 Arista Networks: 1596532 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/1596532/000159653222000294/anet-20220930.htm) - data was captured successfully.
+49 Arthur J. Gallagher & Co.: 354190 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/354190/000095017022021298/ajg-20220930.htm) - data was captured successfully.
+50 Assurant: 1267238 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/1267238/000126723822000040/aiz-20220930.htm) - data was captured successfully.
+51 AT&T: 732717 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/732717/000073271722000102/t-20220930.htm) - data was captured successfully.
+52 Atmos Energy: 731802 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/731802/000073180222000037/ato-20220930.htm) - data was captured successfully.
+53 Autodesk: 769397 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/769397/000076939722000148/adsk-20221031.htm) - data was captured successfully.
+54 AutoZone: 866787 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/866787/000155837022018835/azo-20221119x10q.htm) - data was captured successfully.
+55 AvalonBay Communities: 915912 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/915912/000091591222000020/avb-20220930.htm) - data was captured successfully.
+56 Avery Dennison: 8818 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/8818/000000881822000014/avy-20221001.htm) - data was captured successfully.
+57 Baker Hughes: 1701605 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/1701605/000170160522000151/bkr-20220930.htm) - data was captured successfully.
+58 Ball Corporation: 9389 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/9389/000155837022016282/bll-20220930x10q.htm) - data was captured successfully.
+59 Bank of America: 70858 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/70858/000007085822000131/bac-20220930.htm) - data was captured successfully.
+60 Bath & Body Works, Inc.: 701985 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/701985/000070198522000040/bbwi-20221029.htm) - data was captured successfully.
+61 Baxter International: 10456 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/10456/000162828022027149/bax-20220930.htm) - data was captured successfully.
+62 Becton Dickinson: 10795 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/10795/000162828022030686/bdx-20220930.htm) - data was captured successfully.
+63 Berkley: 11544 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/11544/000001154422000032/wrb-20220930.htm) - data was captured successfully.
+64 Berkshire Hathaway: 1067983 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/1067983/000095017022022287/brka-20220930.htm) - data was captured successfully.
+65 Best Buy: 764478 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/764478/000076447822000044/bby-20221029x10q.htm) - data was captured successfully.
+66 Bio-Rad: 12208 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/12208/000001220822000071/bio-20220930.htm) - data was captured successfully.
+67 Bio-Techne: 842023 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/842023/000155837022016640/tmb-20220930x10q.htm) - data was captured successfully.
+68 Biogen: 875045 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/875045/000087504522000031/biib-20220930.htm) - data was captured successfully.
+69 BlackRock: 1364742 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/1364742/000095017022022155/blk-20220930.htm) - data was captured successfully.
+70 BNY Mellon: 1390777 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/1390777/000139077722000101/bk-20220930.htm) - data was captured successfully.
+71 Boeing: 12927 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/12927/000001292722000073/ba-20220930.htm) - data was captured successfully.
+72 Booking Holdings: 1075531 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/1075531/000107553122000043/bkng-20220930.htm) - data was captured successfully.
+73 BorgWarner: 908255 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/908255/000090825522000041/bwa-20220930.htm) - data was captured successfully.
+74 Boston Properties: 1037540 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/1037540/000165642322000043/bxp-20220930.htm) - data was captured successfully.
+75 Boston Scientific: 885725 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/885725/000088572522000028/bsx-20220930.htm) - data was captured successfully.
+76 Bristol Myers Squibb: 14272 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/14272/000001427222000196/bmy-20220930.htm) - data was captured successfully.
+77 Broadcom Inc.: 1730168 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/1730168/000173016822000118/avgo-20221030.htm) - data was captured successfully.
+78 Broadridge Financial Solutions: 1383312 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/1383312/000138331222000052/br-20220930.htm) - data was captured successfully.
+79 Brown & Brown: 79282 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/79282/000095017022021976/bro-20220930.htm) - data was captured successfully.
+80 Brown–Forman: 14693 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/14693/000001469322000151/bfb-20221031.htm) - data was captured successfully.
+81 C.H. Robinson: 1043277 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/1043277/000104327722000045/chrw-20220930.htm) - data was captured successfully.
+82 Cadence Design Systems: 813672 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/813672/000081367222000054/cdns-20221001.htm) - data was captured successfully.
+83 Caesars Entertainment: 1590895 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/1590895/000159089522000148/czr-20220930.htm) - data was captured successfully.
+84 Camden Property Trust: 906345 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/906345/000090634522000042/cpt-20220930.htm) - data was captured successfully.
+85 Campbell Soup Company: 16732 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/16732/000001673222000156/cpb-20221030.htm) - data was captured successfully.
+86 Capital One: 927628 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/927628/000092762822000306/cof-20220930.htm) - data was captured successfully.
+87 Cardinal Health: 721371 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/721371/000072137122000133/cah-20220930.htm) - data was captured successfully.
+88 CarMax: 1170010 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/1170010/000117001023000006/kmx-20221130.htm) - data was captured successfully.
+89 Carnival: 815097 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/815097/000081509722000073/ccl-20220831.htm) - data was captured successfully.
+90 Carrier Global: 1783180 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/1783180/000178318022000056/carr-20220930.htm) - data was captured successfully.
+91 Catalent: 1596783 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/1596783/000159678322000185/ctlt-20220930.htm) - data was captured successfully.
+92 Caterpillar Inc.: 18230 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/18230/000001823022000223/cat-20220930.htm) - data was captured successfully.
+93 Cboe Global Markets: 1374310 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/1374310/000155837022016342/cboe-20220930x10q.htm) - data was captured successfully.
+94 CBRE Group: 1138118 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/1138118/000113811822000033/cbre-20220930.htm) - data was captured successfully.
+95 CDW: 1402057 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/1402057/000140205722000159/cdw-20220930.htm) - data was captured successfully.
+96 Celanese: 1306830 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/1306830/000130683022000184/ce-20220930.htm) - data was captured successfully.
+97 Centene Corporation: 1071739 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/1071739/000107173922000361/cnc-20220930.htm) - data was captured successfully.
+98 CenterPoint Energy: 1130310 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/1130310/000113031022000123/cnp-20220930.htm) - data was captured successfully.
+99 Ceridian: 1725057 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/1725057/000095017022021260/cday-20220930.htm) - data was captured successfully.
+100 CF Industries: 1324404 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/1324404/000132440422000028/cf-20220930.htm) - data was captured successfully.
+101 Charles River Laboratories: 1100682 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/1100682/000110068222000032/crl-20220924.htm) - data was captured successfully.
+102 Charles Schwab Corporation: 316709 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/316709/000031670922000045/schw-20220930.htm) - data was captured successfully.
+103 Charter Communications: 1091667 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/1091667/000109166722000115/chtr-20220930.htm) - data was captured successfully.
+104 Chevron Corporation: 93410 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/93410/000009341022000075/cvx-20220930.htm) - data was captured successfully.
+105 Chipotle Mexican Grill: 1058090 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/1058090/000105809022000043/cmg-20220930x10q.htm) - data was captured successfully.
+106 Chubb Limited: 896159 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/896159/000089615922000014/cb-20220930.htm) - data was captured successfully.
+107 Church & Dwight: 313927 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/313927/000095017022020408/chd-20220930.htm) - data was captured successfully.
+108 Cigna: 1739940 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/1739940/000173994022000025/ci-20220930.htm) - data was captured successfully.
+109 Cincinnati Financial: 20286 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/20286/000002028622000066/cinf-20220930.htm) - data was captured successfully.
+110 Cintas: 723254 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/723254/000072325423000003/ctas-20221130.htm) - data was captured successfully.
+111 Cisco: 858877 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/858877/000085887722000025/csco-20221029.htm) - data was captured successfully.
+112 Citigroup: 831001 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/831001/000083100122000146/c-20220930.htm) - data was captured successfully.
+113 Citizens Financial Group: 759944 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/759944/000075994422000142/cfg-20220930.htm) - data was captured successfully.
+114 Clorox: 21076 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/21076/000002107622000035/clx-20220930.htm) - data was captured successfully.
+115 CME Group: 1156375 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/1156375/000115637522000312/cme-20220930.htm) - data was captured successfully.
+116 CMS Energy: 811156 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/811156/000081115622000119/cms-20220930.htm) - data was captured successfully.
+117 The Coca-Cola Company: 21344 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/21344/000002134422000042/ko-20220930.htm) - data was captured successfully.
+118 Cognizant: 1058290 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/1058290/000105829022000321/ctsh-20220930.htm) - data was captured successfully.
+119 Colgate-Palmolive: 21665 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/21665/000002166522000027/cl-20220930.htm) - data was captured successfully.
+120 Comcast: 1166691 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/1166691/000116669122000039/cmcsa-20220930.htm) - data was captured successfully.
+121 Comerica: 28412 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/28412/000002841222000163/cma-20220930.htm) - data was captured successfully.
+122 Conagra Brands: 23217 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/23217/000143774923000496/cag20221011b_10q.htm) - data was captured successfully.
+123 ConocoPhillips: 1163165 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/1163165/000116316522000017/cop-20220930.htm) - data was captured successfully.
+124 Consolidated Edison: 1047862 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/1047862/000104786222000248/ed-20220930.htm) - data was captured successfully.
+125 Constellation Brands: 16918 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/16918/000001691823000006/stz-20221130.htm) - data was captured successfully.
+126 Constellation Energy: 1868275 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/1868275/000186827522000094/ceg-20220930.htm) - data was captured successfully.
+127 CooperCompanies: 711404 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/711404/000071140422000053/coo-20221031.htm) - data was captured successfully.
+128 Copart: 900075 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/900075/000090007522000065/cprt-20221031.htm) - data was captured successfully.
+129 Corning Inc.: 24741 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/24741/000143774922024920/glw20220930_10q.htm) - data was captured successfully.
+130 Corteva: 1755672 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/1755672/000175567222000026/ctva-20220930.htm) - data was captured successfully.
+131 CoStar Group: 1057352 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/1057352/000105735222000121/csgp-20220930.htm) - data was captured successfully.
+132 Costco: 909832 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/909832/000090983222000035/cost-20221120.htm) - data was captured successfully.
+133 Coterra: 858470 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/858470/000085847022000042/cog-20220930.htm) - data was captured successfully.
+134 Crown Castle: 1051470 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/1051470/000105147022000173/cci-20220930.htm) - data was captured successfully.
+135 CSX: 277948 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/277948/000027794822000045/csx-20220930.htm) - data was captured successfully.
+136 Cummins: 26172 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/26172/000002617222000057/cmi-20220930.htm) - data was captured successfully.
+137 CVS Health: 64803 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/64803/000006480322000038/cvs-20220930.htm) - data was captured successfully.
+138 D.R. Horton: 882184 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/882184/000088218422000184/dhi-20220930.htm) - data was captured successfully.
+139 Danaher Corporation: 313616 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/313616/000031361622000223/dhr-20220930.htm) - data was captured successfully.
+140 Darden Restaurants: 940944 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/940944/000094094423000004/dri-20221127.htm) - data was captured successfully.
+141 DaVita Inc.: 927066 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/927066/000092706622000167/dva-20220930.htm) - data was captured successfully.
+142 John Deere: 315189 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/315189/000155837022018703/de-20221030x10k.htm) - data was captured successfully.
+143 Delta Air Lines: 27904 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/27904/000002790422000013/dal-20220930.htm) - data was captured successfully.
+144 Dentsply Sirona: 818479 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/818479/000081847922000119/xray-20220930.htm) - data was captured successfully.
+145 Devon Energy: 1090012 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/1090012/000095017022021074/dvn-20220930.htm) - data was captured successfully.
+146 Dexcom: 1093557 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/1093557/000109355722000171/dxcm-20220930.htm) - data was captured successfully.
+147 Diamondback Energy: 1539838 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/1539838/000153983822000167/fang-20220930.htm) - data was captured successfully.
+148 Digital Realty: 1297996 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/1297996/000155837022016456/dlr-20220930x10q.htm) - data was captured successfully.
+149 Discover Financial: 1393612 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/1393612/000162828022027220/dfs-20220930.htm) - data was captured successfully.
+150 Dish Network: 1001082 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/1001082/000155837022015893/dish-20220930x10q.htm) - data was captured successfully.
+151 Disney: 1744489 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/1744489/000174448922000213/dis-20221001.htm) - data was captured successfully.
+152 Dollar General: 29534 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/29534/000155837022018302/dg-20221028x10q.htm) - data was captured successfully.
+153 Dollar Tree: 935703 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/935703/000093570322000073/dltr-20221029.htm) - data was captured successfully.
+154 Dominion Energy: 715957 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/715957/000156459022036712/d-10q_20220930.htm) - data was captured successfully.
+155 Domino's: 1286681 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/1286681/000095017022019533/dpz-20220911.htm) - data was captured successfully.
+156 Dover Corporation: 29905 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/29905/000002990522000040/dov-20220930.htm) - data was captured successfully.
+157 Dow Inc.: 1751788 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/1751788/000175178822000131/dow-20220930.htm) - data was captured successfully.
+158 DTE Energy: 936340 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/936340/000093634022000205/dte-20220930.htm) - data was captured successfully.
+159 Duke Energy: 1326160 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/1326160/000132616022000279/duk-20220930.htm) - data was captured successfully.
+160 DuPont: 1666700 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/1666700/000166670022000077/dd-20220930.htm) - data was captured successfully.
+161 DXC Technology: 1688568 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/1688568/000168856822000073/dxc-20220930.htm) - data was captured successfully.
+162 Eastman Chemical Company: 915389 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/915389/000091538922000051/emn-20220930.htm) - data was captured successfully.
+163 Eaton Corporation: 1551182 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/1551182/000155118222000024/etn-20220930.htm) - data was captured successfully.
+164 eBay: 1065088 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/1065088/000106508822000030/ebay-20220930.htm) - data was captured successfully.
+165 Ecolab: 31462 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/31462/000155837022016340/ecl-20220930x10q.htm) - data was captured successfully.
+166 Edison International: 827052 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/827052/000082705222000076/eix-20220930x10q.htm) - data was captured successfully.
+167 Edwards Lifesciences: 1099800 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/1099800/000109980022000025/ew-20220930.htm) - data was captured successfully.
+168 Electronic Arts: 712515 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/712515/000071251522000068/ea-20220930.htm) - data was captured successfully.
+169 Elevance Health: 1156039 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/1156039/000115603922000084/elv-20220930.htm) - data was captured successfully.
+170 Eli Lilly and Company: 59478 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/59478/000005947822000250/lly-20220930.htm) - data was captured successfully.
+171 Emerson Electric: 32604 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/32604/000003260422000041/emr-20220930.htm) - data was captured successfully.
+172 Enphase: 1463101 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/1463101/000146310122000112/enph-20220930.htm) - data was captured successfully.
+173 Entergy: 65984 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/65984/000006598422000185/etr-20220930.htm) - data was captured successfully.
+174 EOG Resources: 821189 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/821189/000082118922000056/eog-20220930.htm) - data was captured successfully.
+175 EPAM Systems: 1352010 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/1352010/000135201022000057/epam-20220930.htm) - data was captured successfully.
+176 EQT: 33213 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/33213/000003321322000028/eqt-20220930.htm) - data was captured successfully.
+177 Equifax: 33185 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/33185/000003318522000058/efx-20220930.htm) - data was captured successfully.
+178 Equinix: 1101239 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/1101239/000162828022028466/eqix-20220930.htm) - data was captured successfully.
+179 Equity Residential: 906107 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/906107/000095017022020464/eqr-20220930.htm) - data was captured successfully.
+180 Essex Property Trust: 920522 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/920522/000092052222000062/ess-20220930.htm) - data was captured successfully.
+181 The Estée Lauder Companies: 1001250 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/1001250/000100125022000182/el-20220930.htm) - data was captured successfully.
+182 Etsy: 1370637 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/1370637/000137063722000081/etsy-20220930.htm) - data was captured successfully.
+183 Everest Re: 1095073 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/1095073/000109507322000026/re-20220930.htm) - data was captured successfully.
+184 Evergy: 1711269 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/1711269/000171126922000049/evrg-20220930.htm) - data was captured successfully.
+185 Eversource: 72741 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/72741/000007274122000030/es-20220930.htm) - data was captured successfully.
+186 Exelon: 1109357 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/1109357/000110935722000113/exc-20220930.htm) - data was captured successfully.
+187 Expedia Group: 1324424 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/1324424/000132442422000065/expe-20220930.htm) - data was captured successfully.
+188 Expeditors International: 746515 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/746515/000156459022037052/expd-10q_20220930.htm) - data was captured successfully.
+189 Extra Space Storage: 1289490 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/1289490/000162828022028483/exr-20220930.htm) - data was captured successfully.
+190 ExxonMobil: 34088 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/34088/000003408822000064/xom-20220930.htm) - data was captured successfully.
+191 F5, Inc.: 1048695 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/1048695/000104869522000033/ffiv-20220930.htm) - data was captured successfully.
+192 FactSet: 1013237 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/1013237/000101323723000006/fds-20221130.htm) - data was captured successfully.
+193 Fastenal: 815556 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/815556/000081555622000041/fast-20220930.htm) - data was captured successfully.
+194 Federal Realty: 34903 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/34903/000003490322000068/frt-20220930.htm) - data was captured successfully.
+195 FedEx: 1048911 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/1048911/000095017022026825/fdx-20221130.htm) - data was captured successfully.
+196 Fifth Third Bank: 35527 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/35527/000003552722000242/fitb-20220930.htm) - data was captured successfully.
+This URLhttps://www.sec.gov/edgar/browse/?CIK=1132979&owner=exclude failed.197 First Solar: 1274494 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/1274494/000127449422000040/fslr-20220930.htm) - data was captured successfully.
+198 FirstEnergy: 1031296 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/1031296/000103129622000069/fe-20220930.htm) - data was captured successfully.
+199 FIS: 1136893 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/1136893/000113689322000180/fis-20220930.htm) - data was captured successfully.
+200 Fiserv: 798354 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/798354/000079835422000019/fisv-20220930.htm) - data was captured successfully.
+201 Fleetcor: 1175454 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/1175454/000162828022028729/flt-20220930.htm) - data was captured successfully.
+202 FMC Corporation: 37785 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/37785/000003778522000090/fmc-20220930.htm) - data was captured successfully.
+203 Ford Motor Company: 37996 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/37996/000003799622000073/f-20220930.htm) - data was captured successfully.
+204 Fortinet: 1262039 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/1262039/000126203922000038/ftnt-20220930.htm) - data was captured successfully.
+205 Fortive: 1659166 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/1659166/000165916622000190/ftv-20220930.htm) - data was captured successfully.
+206 Fox Corporation (Class A): 1754301 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/1754301/000162828022027482/fox-20220930.htm) - data was captured successfully.
+207 Fox Corporation (Class B): 1754301 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/1754301/000162828022027482/fox-20220930.htm) - data was captured successfully.
+208 Franklin Templeton: 38777 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/38777/000003877722000198/ben-20220930.htm) - data was captured successfully.
+209 Freeport-McMoRan: 831259 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/831259/000083125922000049/fcx-20220930.htm) - data was captured successfully.
+210 Garmin: 1121788 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/1121788/000095017022020097/grmn-20220924.htm) - data was captured successfully.
+211 Gartner: 749251 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/749251/000074925122000035/it-20220930.htm) - data was captured successfully.
+This URLhttps://www.sec.gov/edgar/browse/?CIK=1932393&owner=exclude failed.213 Gen Digital: 849399 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/849399/000084939922000026/gen-20220930.htm) - data was captured successfully.
+214 Generac: 1474735 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/1474735/000143774922026207/gnrc20220930_10q.htm) - data was captured successfully.
+215 General Dynamics: 40533 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/40533/000004053322000048/gd-20221002.htm) - data was captured successfully.
+216 General Electric: 40545 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/40545/000004054522000060/ge-20220930.htm) - data was captured successfully.
+217 General Mills: 40704 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/40704/000119312522309146/d392633d10q.htm) - data was captured successfully.
+218 General Motors: 1467858 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/1467858/000146785822000114/gm-20220930.htm) - data was captured successfully.
+219 Genuine Parts Company: 40987 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/40987/000004098722000040/gpc-20220930.htm) - data was captured successfully.
+220 Gilead Sciences: 882095 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/882095/000088209522000027/gild-20220930.htm) - data was captured successfully.
+221 Globe Life: 320335 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/320335/000032033522000034/gl-20220930.htm) - data was captured successfully.
+222 Global Payments: 1123360 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/1123360/000112336022000030/gpn-20220930.htm) - data was captured successfully.
+223 Goldman Sachs: 886982 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/886982/000088698222000002/gs-20220930.htm) - data was captured successfully.
+224 Halliburton: 45012 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/45012/000004501222000067/hal-20220930.htm) - data was captured successfully.
+225 Hartford (The): 874766 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/874766/000087476622000102/hig-20220930.htm) - data was captured successfully.
+226 Hasbro: 46080 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/46080/000004608022000123/has-20220925.htm) - data was captured successfully.
+227 HCA Healthcare: 860730 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/860730/000095017022020865/hca-20220930.htm) - data was captured successfully.
+228 Healthpeak: 765880 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/765880/000162828022027830/peak-20220930.htm) - data was captured successfully.
+229 Henry Schein: 1000228 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/1000228/000100022822000068/hsic-20220924.htm) - data was captured successfully.
+230 Hershey's: 47111 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/47111/000004711122000051/hsy-20221002.htm) - data was captured successfully.
+231 Hess Corporation: 4447 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/4447/000162828022028196/hes-20220930.htm) - data was captured successfully.
+232 Hewlett Packard Enterprise: 1645590 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/1645590/000164559022000071/hpe-20221031.htm) - data was captured successfully.
+233 Hilton Worldwide: 1585689 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/1585689/000158568922000164/hlt-20220930.htm) - data was captured successfully.
+234 Hologic: 859737 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/859737/000085973722000022/holx-20220924.htm) - data was captured successfully.
+235 Home Depot (The): 354950 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/354950/000035495022000239/hd-20221030.htm) - data was captured successfully.
+236 Honeywell: 773840 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/773840/000077384022000071/hon-20220930.htm) - data was captured successfully.
+237 Hormel Foods: 48465 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/48465/000004846522000051/hrl-20221030.htm) - data was captured successfully.
+238 Host Hotels & Resorts: 1070750 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/1070750/000095017022022127/hst-20220930.htm) - data was captured successfully.
+239 Howmet Aerospace: 4281 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/4281/000000428122000020/hwm-20220930.htm) - data was captured successfully.
+240 HP Inc.: 47217 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/47217/000004721722000068/hpq-20221031.htm) - data was captured successfully.
+241 Humana: 49071 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/49071/000004907122000071/hum-20220930.htm) - data was captured successfully.
+242 Huntington Bancshares: 49196 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/49196/000004919622000113/hban-20220930.htm) - data was captured successfully.
+243 Huntington Ingalls Industries: 1501585 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/1501585/000150158522000034/hii-20220930.htm) - data was captured successfully.
+244 IBM: 51143 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/51143/000155837022015322/ibm-20220930x10q.htm) - data was captured successfully.
+245 IDEX Corporation: 832101 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/832101/000083210122000056/iex-20220930.htm) - data was captured successfully.
+246 Idexx Laboratories: 874716 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/874716/000087471622000038/idxx-20220930.htm) - data was captured successfully.
+247 Illinois Tool Works: 49826 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/49826/000004982622000060/itw-20220930.htm) - data was captured successfully.
+248 Illumina: 1110803 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/1110803/000111080322000047/ilmn-20221002.htm) - data was captured successfully.
+249 Incyte: 879169 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/879169/000087916922000010/incy-20220930.htm) - data was captured successfully.
+250 Ingersoll Rand: 1699150 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/1699150/000162828022028451/iri-20220930.htm) - data was captured successfully.
+251 Intel: 50863 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/50863/000005086322000038/intc-20221001.htm) - data was captured successfully.
+252 Intercontinental Exchange: 1571949 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/1571949/000157194922000016/ice-20220930.htm) - data was captured successfully.
+253 International Paper: 51434 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/51434/000005143422000052/ip-20220930.htm) - data was captured successfully.
+254 The Interpublic Group of Companies: 51644 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/51644/000005164422000050/ipg-20220930.htm) - data was captured successfully.
+255 International Flavors & Fragrances: 51253 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/51253/000005125322000030/iff-20220930.htm) - data was captured successfully.
+256 Intuit: 896878 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/896878/000089687822000036/intu-20221031.htm) - data was captured successfully.
+257 Intuitive Surgical: 1035267 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/1035267/000103526722000169/isrg-20220930.htm) - data was captured successfully.
+258 Invesco: 914208 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/914208/000091420822000500/ivz-20220930.htm) - data was captured successfully.
+259 Invitation Homes: 1687229 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/1687229/000168722922000035/invh-20220930.htm) - data was captured successfully.
+260 IQVIA: 1478242 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/1478242/000147824222000101/iqv-20220930.htm) - data was captured successfully.
+261 Iron Mountain: 1020569 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/1020569/000102056922000210/irm-20220930.htm) - data was captured successfully.
+262 J.B. Hunt: 728535 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/728535/000143774922025965/jbht20220930_10q.htm) - data was captured successfully.
+263 Jack Henry & Associates: 779152 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/779152/000077915222000103/jkhy-20220930.htm) - data was captured successfully.
+264 Jacobs Solutions: 52988 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/52988/000005298822000111/jec-20220930.htm) - data was captured successfully.
+265 Johnson & Johnson: 200406 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/200406/000020040622000086/jnj-20221002.htm) - data was captured successfully.
+266 Johnson Controls: 833444 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/833444/000083344422000043/jci-20220930.htm) - data was captured successfully.
+267 JPMorgan Chase: 19617 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/19617/000001961722000492/jpm-20220930.htm) - data was captured successfully.
+268 Juniper Networks: 1043604 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/1043604/000104360422000163/jnpr-20220930.htm) - data was captured successfully.
+269 Kellogg's: 55067 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/55067/000162828022028218/k-20221001.htm) - data was captured successfully.
+270 Keurig Dr Pepper: 1418135 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/1418135/000141813522000023/kdp-20220930.htm) - data was captured successfully.
+271 KeyCorp: 91576 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/91576/000009157622000119/key-20220930.htm) - data was captured successfully.
+272 Keysight: 1601046 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/1601046/000160104622000161/keys-20221031.htm) - data was captured successfully.
+273 Kimberly-Clark: 55785 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/55785/000005578522000074/kmb-20220930.htm) - data was captured successfully.
+274 Kimco Realty: 879101 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/879101/000143774922025020/kim20220930_10q.htm) - data was captured successfully.
+275 Kinder Morgan: 1506307 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/1506307/000150630722000111/kmi-20220930.htm) - data was captured successfully.
+276 KLA Corporation: 319201 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/319201/000162828022027311/klac-20220930.htm) - data was captured successfully.
+277 Kraft Heinz: 1637459 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/1637459/000163745922000191/khc-20220924.htm) - data was captured successfully.
+278 Kroger: 56873 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/56873/000155837022018508/kr-20221105x10q.htm) - data was captured successfully.
+279 L3Harris: 202058 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/202058/000020205822000063/hrs-20220930.htm) - data was captured successfully.
+280 LabCorp: 920148 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/920148/000092014822000060/lh-20220930.htm) - data was captured successfully.
+281 Lam Research: 707549 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/707549/000070754922000124/lrcx-20220925.htm) - data was captured successfully.
+282 Lamb Weston: 1679273 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/1679273/000155837023000048/lw-20221127x10q.htm) - data was captured successfully.
+283 Las Vegas Sands: 1300514 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/1300514/000130051422000119/lvs-20220930.htm) - data was captured successfully.
+284 Leidos: 1336920 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/1336920/000133692022000060/ldos-20220930.htm) - data was captured successfully.
+285 Lennar: 920760 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/920760/000162828022025896/len-20220831.htm) - data was captured successfully.
+286 Lincoln Financial: 59558 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/59558/000005955822000043/lnc-20220930x10q.htm) - data was captured successfully.
+287 Linde plc: 1707925 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/1707925/000162828022027183/lin-20220930.htm) - data was captured successfully.
+288 Live Nation Entertainment: 1335258 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/1335258/000133525822000144/lyv-20220930.htm) - data was captured successfully.
+289 LKQ Corporation: 1065696 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/1065696/000106569622000077/lkq-20220930.htm) - data was captured successfully.
+290 Lockheed Martin: 936468 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/936468/000093646822000120/lmt-20220925.htm) - data was captured successfully.
+291 Loews Corporation: 60086 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/60086/000006008622000109/l-20220930.htm) - data was captured successfully.
+292 Lowe's: 60667 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/60667/000006066722000170/low-20221028.htm) - data was captured successfully.
+293 Lumen Technologies: 18926 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/18926/000001892622000042/lumn-20220930.htm) - data was captured successfully.
+294 LyondellBasell: 1489393 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/1489393/000148939322000046/lyb-20220930.htm) - data was captured successfully.
+295 M&T Bank: 36270 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/36270/000095017022022465/mtb-20220930.htm) - data was captured successfully.
+296 Marathon Oil: 101778 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/101778/000010177822000192/mro-20220930.htm) - data was captured successfully.
+297 Marathon Petroleum: 1510295 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/1510295/000151029522000077/mpc-20220930.htm) - data was captured successfully.
+298 MarketAxess: 1278021 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/1278021/000095017022020175/mktx-20220930.htm) - data was captured successfully.
+299 Marriott International: 1048286 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/1048286/000162828022028021/mar-20220930.htm) - data was captured successfully.
+300 Marsh McLennan: 62709 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/62709/000006270922000081/mmc-20220930.htm) - data was captured successfully.
+301 Martin Marietta Materials: 916076 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/916076/000095017022021173/mlm-20220930.htm) - data was captured successfully.
+302 Masco: 62996 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/62996/000006299622000041/mas-20220930.htm) - data was captured successfully.
+303 Mastercard: 1141391 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/1141391/000114139122000163/ma-20220930.htm) - data was captured successfully.
+304 Match Group: 891103 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/891103/000089110322000095/mtch-20220930.htm) - data was captured successfully.
+305 McCormick & Company: 63754 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/63754/000006375422000044/mkc-20220831.htm) - data was captured successfully.
+306 McDonald's: 63908 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/63908/000006390822000055/mcd-20220930.htm) - data was captured successfully.
+307 McKesson: 927653 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/927653/000092765322000097/mck-20220930.htm) - data was captured successfully.
+308 Medtronic: 1613103 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/1613103/000161310322000063/mdt-20221028.htm) - data was captured successfully.
+309 Merck & Co.: 310158 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/310158/000031015822000034/mrk-20220930.htm) - data was captured successfully.
+310 Meta Platforms: 1326801 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/1326801/000132680122000108/meta-20220930.htm) - data was captured successfully.
+311 MetLife: 1099219 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/1099219/000109921922000174/met-20220930.htm) - data was captured successfully.
+312 Mettler Toledo: 1037646 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/1037646/000103764622000031/mtd-20220930.htm) - data was captured successfully.
+313 MGM Resorts: 789570 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/789570/000078957022000038/mgm-20220930.htm) - data was captured successfully.
+314 Microchip Technology: 827054 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/827054/000082705422000193/mchp-20220930.htm) - data was captured successfully.
+315 Micron Technology: 723125 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/723125/000072312522000072/mu-20221201.htm) - data was captured successfully.
+316 Microsoft: 789019 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/789019/000156459022035087/msft-10q_20220930.htm) - data was captured successfully.
+317 Mid-America Apartment Communities: 912595 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/912595/000095017022020325/maa-20220930.htm) - data was captured successfully.
+318 Moderna: 1682852 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/1682852/000168285222000051/mrna-20220930.htm) - data was captured successfully.
+319 Mohawk Industries: 851968 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/851968/000085196822000091/mhk-20221001.htm) - data was captured successfully.
+320 Molina Healthcare: 1179929 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/1179929/000117992922000172/moh-20220930.htm) - data was captured successfully.
+321 Molson Coors Beverage Company: 24545 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/24545/000002454522000018/tap-20220930.htm) - data was captured successfully.
+322 Mondelez International: 1103982 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/1103982/000110398222000018/mdlz-20220930.htm) - data was captured successfully.
+323 Monolithic Power Systems: 1280452 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/1280452/000143774922026581/mpwr20220930_10q.htm) - data was captured successfully.
+324 Monster Beverage: 865752 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/865752/000110465922114849/mnst-20220930x10q.htm) - data was captured successfully.
+325 Moody's Corporation: 1059556 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/1059556/000105955622000063/mco-20220930.htm) - data was captured successfully.
+326 Morgan Stanley: 895421 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/895421/000089542122000587/ms-20220930.htm) - data was captured successfully.
+327 The Mosaic Company: 1285785 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/1285785/000161803422000012/mos-20220930.htm) - data was captured successfully.
+328 Motorola Solutions: 68505 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/68505/000006850522000031/msi-20221001.htm) - data was captured successfully.
+329 MSCI: 1408198 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/1408198/000140819822000012/msci-20220930.htm) - data was captured successfully.
+330 Nasdaq, Inc.: 1120193 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/1120193/000112019322000020/ndaq-20220930.htm) - data was captured successfully.
+331 NetApp: 1002047 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/1002047/000095017022025960/ntap-20221028.htm) - data was captured successfully.
+332 Netflix: 1065280 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/1065280/000106528022000368/nflx-20220930.htm) - data was captured successfully.
+333 Newell Brands: 814453 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/814453/000081445322000129/nwl-20220930.htm) - data was captured successfully.
+334 Newmont: 1164727 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/1164727/000116472722000035/nem-20220930.htm) - data was captured successfully.
+335 News Corp (Class A): 1564708 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/1564708/000156470822000398/nws-20220930.htm) - data was captured successfully.
+336 News Corp (Class B): 1564708 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/1564708/000156470822000398/nws-20220930.htm) - data was captured successfully.
+337 NextEra Energy: 753308 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/753308/000075330822000081/nee-20220930.htm) - data was captured successfully.
+338 Nike, Inc.: 320187 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/320187/000032018723000003/nke-20221130.htm) - data was captured successfully.
+339 NiSource: 1111711 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/1111711/000111171122000041/nix-20220930.htm) - data was captured successfully.
+340 Nordson Corporation: 72331 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/72331/000007233122000185/ndsn-20221031.htm) - data was captured successfully.
+341 Norfolk Southern Railway: 702165 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/702165/000070216522000039/nsc-20220930.htm) - data was captured successfully.
+342 Northern Trust: 73124 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/73124/000007312422000208/ntrs-20220930.htm) - data was captured successfully.
+343 Northrop Grumman: 1133421 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/1133421/000113342122000042/noc-20220930.htm) - data was captured successfully.
+344 Norwegian Cruise Line Holdings: 1513761 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/1513761/000155837022016836/nclh-20220930x10q.htm) - data was captured successfully.
+345 NRG Energy: 1013871 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/1013871/000101387122000027/nrg-20220930.htm) - data was captured successfully.
+346 Nucor: 73309 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/73309/000156459022037206/nue-10q_20221001.htm) - data was captured successfully.
+347 Nvidia: 1045810 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/1045810/000104581022000166/nvda-20221030.htm) - data was captured successfully.
+348 NVR, Inc.: 906163 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/906163/000090616322000104/nvr-20220930.htm) - data was captured successfully.
+349 NXP Semiconductors: 1413447 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/1413447/000141344722000067/nxpi-20221002.htm) - data was captured successfully.
+350 O'Reilly Auto Parts: 898173 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/898173/000089817322000049/orly-20220930x10q.htm) - data was captured successfully.
+351 Occidental Petroleum: 797468 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/797468/000079746822000036/oxy-20220930.htm) - data was captured successfully.
+352 Old Dominion: 878927 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/878927/000095017022021737/odfl-20220930.htm) - data was captured successfully.
+353 Omnicom Group: 29989 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/29989/000002998922000035/omc-20220930.htm) - data was captured successfully.
+354 ON Semiconductor: 1097864 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/1097864/000162828022027363/on-20220930.htm) - data was captured successfully.
+355 ONEOK: 1039684 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/1039684/000103968422000076/oke-20220930.htm) - data was captured successfully.
+356 Oracle Corporation: 1341439 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/1341439/000156459022039278/orcl-10q_20221130.htm) - data was captured successfully.
+357 Organon & Co.: 1821825 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/1821825/000182182522000012/ogn-20220930.htm) - data was captured successfully.
+358 Otis Worldwide: 1781335 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/1781335/000178133522000045/otis-20220930.htm) - data was captured successfully.
+359 Paccar: 75362 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/75362/000156459022035704/pcar-10q_20220930.htm) - data was captured successfully.
+360 Packaging Corporation of America: 75677 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/75677/000095017022021648/pkg-20220930.htm) - data was captured successfully.
+361 Paramount Global: 813828 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/813828/000081382822000039/para-20220930.htm) - data was captured successfully.
+362 Parker Hannifin: 76334 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/76334/000007633422000049/ph-20220930.htm) - data was captured successfully.
+363 Paychex: 723531 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/723531/000095017022026948/payx-20221130.htm) - data was captured successfully.
+364 Paycom: 1590955 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/1590955/000095017022021851/payc-20220930.htm) - data was captured successfully.
+365 PayPal: 1633917 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/1633917/000163391722000167/pypl-20220930.htm) - data was captured successfully.
+366 Pentair: 77360 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/77360/000007736022000041/pnr-20220930.htm) - data was captured successfully.
+367 PepsiCo: 77476 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/77476/000007747622000052/pep-20220903.htm) - data was captured successfully.
+368 PerkinElmer: 31791 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/31791/000003179122000012/pki-20221002.htm) - data was captured successfully.
+369 Pfizer: 78003 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/78003/000007800322000101/pfe-20221002.htm) - data was captured successfully.
+370 PG&E Corporation: 1004980 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/1004980/000100498022000133/pcg-20220930.htm) - data was captured successfully.
+371 Philip Morris International: 1413329 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/1413329/000141332922000114/pm-20220930.htm) - data was captured successfully.
+372 Phillips 66: 1534701 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/1534701/000153470122000185/psx-20220930.htm) - data was captured successfully.
+373 Pinnacle West: 764622 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/764622/000076462222000093/pnw-20220930.htm) - data was captured successfully.
+374 Pioneer Natural Resources: 1038357 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/1038357/000103835722000136/pxd-20220930.htm) - data was captured successfully.
+375 PNC Financial Services: 713676 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/713676/000071367622000092/pnc-20220930.htm) - data was captured successfully.
+376 Pool Corporation: 945841 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/945841/000094584122000122/pool-20220930.htm) - data was captured successfully.
+377 PPG Industries: 79879 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/79879/000007987922000078/ppg-20220930.htm) - data was captured successfully.
+378 PPL Corporation: 922224 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/922224/000092222422000049/ppl-20220930.htm) - data was captured successfully.
+379 Principal Financial Group: 1126328 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/1126328/000110465922113860/pfg-20220930x10q.htm) - data was captured successfully.
+380 Procter & Gamble: 80424 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/80424/000008042422000102/pg-20220930.htm) - data was captured successfully.
+381 Progressive Corporation: 80661 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/80661/000008066122000080/pgr-20220930.htm) - data was captured successfully.
+382 Prologis: 1045609 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/1045609/000156459022035526/pld-10q_20220930.htm) - data was captured successfully.
+383 Prudential Financial: 1137774 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/1137774/000113777422000110/pru-20220930.htm) - data was captured successfully.
+384 Public Service Enterprise Group: 788784 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/788784/000162828022027422/pseg-20220930.htm) - data was captured successfully.
+385 PTC: 857005 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/857005/000095017022025211/ptc-20220930.htm) - data was captured successfully.
+386 Public Storage: 1393311 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/1393311/000139331122000036/psa-20220930.htm) - data was captured successfully.
+387 PulteGroup: 822416 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/822416/000082241622000050/phm-20220930.htm) - data was captured successfully.
+388 Qorvo: 1604778 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/1604778/000160477822000064/rfmd-20221001.htm) - data was captured successfully.
+389 Quanta Services: 1050915 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/1050915/000105091522000122/pwr-20220930.htm) - data was captured successfully.
+390 Qualcomm: 804328 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/804328/000080432822000021/qcom-20220925.htm) - data was captured successfully.
+391 Quest Diagnostics: 1022079 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/1022079/000102207922000140/dgx-20220930.htm) - data was captured successfully.
+392 Ralph Lauren Corporation: 1037038 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/1037038/000103703822000031/rl-20221001.htm) - data was captured successfully.
+393 Raymond James: 720005 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/720005/000072000522000066/rjf-20220930.htm) - data was captured successfully.
+394 Raytheon Technologies: 101829 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/101829/000010182922000056/rtx-20220930.htm) - data was captured successfully.
+395 Realty Income: 726728 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/726728/000072672822000121/o-20220930.htm) - data was captured successfully.
+396 Regency Centers: 910606 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/910606/000095017022022118/reg-20220930.htm) - data was captured successfully.
+397 Regeneron: 872589 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/872589/000180422022000031/regn-20220930.htm) - data was captured successfully.
+398 Regions Financial Corporation: 1281761 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/1281761/000128176122000060/rf-20220930.htm) - data was captured successfully.
+399 Republic Services: 1060391 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/1060391/000106039122000027/rsg-20220930.htm) - data was captured successfully.
+This URLhttps://www.sec.gov/edgar/browse/?CIK=943819&owner=exclude failed.401 Robert Half: 315213 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/315213/000031521322000090/rhi-20220930.htm) - data was captured successfully.
+402 Rockwell Automation: 1024478 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/1024478/000102447822000093/rok-20220930.htm) - data was captured successfully.
+403 Rollins, Inc.: 84839 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/84839/000008483922000059/rol-20220930x10q.htm) - data was captured successfully.
+404 Roper Technologies: 882835 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/882835/000088283522000072/rop-20220930.htm) - data was captured successfully.
+405 Ross Stores: 745732 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/745732/000074573222000064/rost-20221029.htm) - data was captured successfully.
+406 Royal Caribbean Group: 884887 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/884887/000088488722000038/rcl-20220930.htm) - data was captured successfully.
+407 S&P Global: 64040 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/64040/000006404022000171/spgi-20220930.htm) - data was captured successfully.
+408 Salesforce: 1108524 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/1108524/000110852422000060/crm-20221031.htm) - data was captured successfully.
+409 SBA Communications: 1034054 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/1034054/000103405422000008/sbac-20220930x10q.htm) - data was captured successfully.
+410 Schlumberger: 87347 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/87347/000156459022035199/slb-10q_20220930.htm) - data was captured successfully.
+411 Seagate Technology: 1137789 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/1137789/000113778922000123/stx-20220930.htm) - data was captured successfully.
+412 Sealed Air: 1012100 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/1012100/000162828022027548/see-20220930.htm) - data was captured successfully.
+413 Sempra Energy: 1032208 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/1032208/000103220822000052/sre-20220930.htm) - data was captured successfully.
+414 ServiceNow: 1373715 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/1373715/000137371522000330/now-20220930.htm) - data was captured successfully.
+415 Sherwin-Williams: 89800 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/89800/000008980022000037/shw-20220930.htm) - data was captured successfully.
+This URLhttps://www.sec.gov/edgar/browse/?CIK=1288784&owner=exclude failed.417 Simon Property Group: 1063761 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/1063761/000155837022016109/spg-20220930x10q.htm) - data was captured successfully.
+418 Skyworks Solutions: 4127 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/4127/000000412722000038/swks-20220930.htm) - data was captured successfully.
+419 The J.M. Smucker Company: 91419 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/91419/000009141922000140/sjm-20221031.htm) - data was captured successfully.
+420 Snap-on: 91440 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/91440/000009144022000031/sna-20221001.htm) - data was captured successfully.
+421 SolarEdge: 1419612 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/1419612/000117891322003868/zk2228664.htm) - data was captured successfully.
+422 Southern Company: 92122 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/92122/000009212222000064/so-20220930.htm) - data was captured successfully.
+423 Southwest Airlines: 92380 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/92380/000009238022000060/luv-20220930.htm) - data was captured successfully.
+424 Stanley Black & Decker: 93556 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/93556/000009355622000044/swk-20221001.htm) - data was captured successfully.
+425 Starbucks: 829224 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/829224/000082922422000058/sbux-20221002.htm) - data was captured successfully.
+426 State Street Corporation: 93751 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/93751/000009375122000617/stt-20220930.htm) - data was captured successfully.
+427 Steel Dynamics: 1022671 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/1022671/000155837022015423/stld-20220930x10q.htm) - data was captured successfully.
+428 Steris: 1757898 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/1757898/000175789822000021/ste-20220930.htm) - data was captured successfully.
+429 Stryker Corporation: 310764 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/310764/000031076422000105/syk-20220930.htm) - data was captured successfully.
+430 SVB Financial: 719739 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/719739/000071973922000081/sivb-20220930.htm) - data was captured successfully.
+431 Synchrony Financial: 1601712 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/1601712/000160171222000249/syf-20220930.htm) - data was captured successfully.
+432 Synopsys: 883241 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/883241/000088324122000017/snps-20221031.htm) - data was captured successfully.
+433 Sysco: 96021 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/96021/000009602122000211/syy-20221001.htm) - data was captured successfully.
+434 T-Mobile US: 1283699 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/1283699/000128369922000141/tmus-20220930.htm) - data was captured successfully.
+435 T. Rowe Price: 1113169 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/1113169/000111316922000025/trow-20220930.htm) - data was captured successfully.
+436 Take-Two Interactive: 946581 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/946581/000162828022028716/ttwo-20220930.htm) - data was captured successfully.
+437 Tapestry, Inc.: 1116132 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/1116132/000111613222000026/tpr-20221001.htm) - data was captured successfully.
+438 Targa Resources: 1389170 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/1389170/000095017022021813/trgp-20220930.htm) - data was captured successfully.
+439 Target Corporation: 27419 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/27419/000002741922000037/tgt-20221029.htm) - data was captured successfully.
+440 TE Connectivity: 1385157 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/1385157/000155837022017931/tel-20220930x10k.htm) - data was captured successfully.
+441 Teledyne Technologies: 1094285 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/1094285/000109428522000121/tdy-20221002.htm) - data was captured successfully.
+442 Teleflex: 96943 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/96943/000009694322000106/tfx-20220925.htm) - data was captured successfully.
+443 Teradyne: 97210 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/97210/000119312522277821/d386683d10q.htm) - data was captured successfully.
+444 Tesla, Inc.: 1318605 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/1318605/000095017022019867/tsla-20220930.htm) - data was captured successfully.
+445 Texas Instruments: 97476 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/97476/000009747622000048/txn-20220930.htm) - data was captured successfully.
+446 Textron: 217346 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/217346/000021734622000025/txt-20221001.htm) - data was captured successfully.
+447 Thermo Fisher Scientific: 97745 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/97745/000009774522000057/tmo-20221001.htm) - data was captured successfully.
+448 TJX Companies: 109198 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/109198/000010919822000044/tjx-20221029.htm) - data was captured successfully.
+449 Tractor Supply: 916365 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/916365/000091636522000112/tsco-20220924.htm) - data was captured successfully.
+450 Trane Technologies: 1466258 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/1466258/000146625822000186/tt-20220930.htm) - data was captured successfully.
+451 TransDigm Group: 1260221 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/1260221/000126022122000065/tdg-20220930.htm) - data was captured successfully.
+452 The Travelers Companies: 86312 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/86312/000008631222000065/trv-20220930.htm) - data was captured successfully.
+453 Trimble Inc.: 864749 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/864749/000086474922000187/trmb-20220930.htm) - data was captured successfully.
+454 Truist: 92230 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/92230/000009223022000110/tfc-20220930.htm) - data was captured successfully.
+455 Tyler Technologies: 860731 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/860731/000086073122000043/tyl-20220930.htm) - data was captured successfully.
+456 Tyson Foods: 100493 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/100493/000010049322000097/tsn-20221001.htm) - data was captured successfully.
+457 U.S. Bank: 36104 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/36104/000119312522275036/d245647d10q.htm) - data was captured successfully.
+458 UDR, Inc.: 74208 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/74208/000007420822000068/udr-20220930x10q.htm) - data was captured successfully.
+459 Ulta Beauty: 1403568 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/1403568/000155837022018318/ulta-20221029x10q.htm) - data was captured successfully.
+460 Union Pacific Corporation: 100885 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/100885/000143774922024458/unp20220930_10q.htm) - data was captured successfully.
+461 United Airlines Holdings: 100517 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/100517/000010051722000078/ual-20220930.htm) - data was captured successfully.
+462 United Parcel Service: 1090727 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/1090727/000109072722000047/ups-20220930.htm) - data was captured successfully.
+463 United Rentals: 1067701 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/1067701/000106770122000039/uri-20220930.htm) - data was captured successfully.
+464 UnitedHealth Group: 731766 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/731766/000073176622000044/unh-20220930.htm) - data was captured successfully.
+465 Universal Health Services: 352915 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/352915/000156459022037046/uhs-10q_20220930.htm) - data was captured successfully.
+466 Valero Energy: 1035002 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/1035002/000103500222000049/vlo-20220930.htm) - data was captured successfully.
+467 Ventas: 740260 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/740260/000074026022000167/vtr-20220930.htm) - data was captured successfully.
+468 Verisign: 1014473 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/1014473/000101447322000027/vrsn-20220930.htm) - data was captured successfully.
+469 Verisk: 1442145 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/1442145/000143774922025374/vrsk20220930_10q.htm) - data was captured successfully.
+470 Verizon: 732712 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/732712/000073271222000050/vz-20220930.htm) - data was captured successfully.
+471 Vertex Pharmaceuticals: 875320 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/875320/000087532022000038/vrtx-20220930.htm) - data was captured successfully.
+472 VF Corporation: 103379 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/103379/000010337922000016/vfc-20221001.htm) - data was captured successfully.
+473 Viatris: 1792044 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/1792044/000179204422000036/vtrs-20220930.htm) - data was captured successfully.
+474 Vici Properties: 1705696 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/1705696/000170569622000130/vici-20220930.htm) - data was captured successfully.
+475 Visa Inc.: 1403161 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/1403161/000140316122000081/v-20220930.htm) - data was captured successfully.
+476 Vulcan Materials Company: 1396009 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/1396009/000139600922000049/vmc-20220930x10q.htm) - data was captured successfully.
+477 Wabtec: 943452 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/943452/000162828022027500/wab-20220930.htm) - data was captured successfully.
+478 Walgreens Boots Alliance: 1618921 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/1618921/000161892123000005/wba-20221130.htm) - data was captured successfully.
+479 Walmart: 104169 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/104169/000010416922000083/wmt-20221031.htm) - data was captured successfully.
+480 Warner Bros. Discovery: 1437107 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/1437107/000143710722000231/disca-20220930.htm) - data was captured successfully.
+481 Waste Management: 823768 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/823768/000155837022015389/wm-20220930x10q.htm) - data was captured successfully.
+482 Waters Corporation: 1000697 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/1000697/000119312522276585/d310383d10q.htm) - data was captured successfully.
+483 WEC Energy Group: 783325 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/783325/000010781522000307/wec-20220930.htm) - data was captured successfully.
+484 Wells Fargo: 72971 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/72971/000007297122000205/wfc-20220930.htm) - data was captured successfully.
+485 Welltower: 766704 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/766704/000076670422000061/well-20220930.htm) - data was captured successfully.
+486 West Pharmaceutical Services: 105770 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/105770/000010577022000054/wst-20220930.htm) - data was captured successfully.
+487 Western Digital: 106040 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/106040/000010604022000065/wdc-20220930.htm) - data was captured successfully.
+488 WestRock: 1732845 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/1732845/000095017022025444/wrk-20220930.htm) - data was captured successfully.
+489 Weyerhaeuser: 106535 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/106535/000156459022035696/wy-10q_20220930.htm) - data was captured successfully.
+490 Whirlpool Corporation: 106640 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/106640/000010664022000138/whr-20220930.htm) - data was captured successfully.
+491 Williams Companies: 107263 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/107263/000010726322000030/wmb-20220930.htm) - data was captured successfully.
+492 Willis Towers Watson: 1140536 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/1140536/000095017022020347/wtw-20220930.htm) - data was captured successfully.
+493 W. W. Grainger: 277135 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/277135/000027713522000043/gww-20220930.htm) - data was captured successfully.
+494 Wynn Resorts: 1174922 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/1174922/000117492222000149/wynn-20220930.htm) - data was captured successfully.
+495 Xcel Energy: 72903 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/72903/000007290322000063/xel-20220930.htm) - data was captured successfully.
+496 Xylem Inc.: 1524472 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/1524472/000152447222000053/xyl-20220930.htm) - data was captured successfully.
+497 Yum! Brands: 1041061 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/1041061/000104106122000040/yum-20220930.htm) - data was captured successfully.
+498 Zebra Technologies: 877212 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/877212/000087721222000117/zbra-20221001.htm) - data was captured successfully.
+499 Zimmer Biomet: 1136869 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/1136869/000095017022021220/zbh-20220930.htm) - data was captured successfully.
+500 Zions Bancorporation: 109380 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/109380/000010938022000184/zions-20220930.htm) - data was captured successfully.
+501 Zoetis: 1555280 appended, successfully.
+(https://www.sec.gov/ix?doc=/Archives/edgar/data/1555280/000155528022000276/zts-20220930.htm) - data was captured successfully.
+Success at last!
