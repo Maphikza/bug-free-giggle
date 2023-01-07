@@ -27,7 +27,7 @@ def get_cik():
 def fetch_outstanding_stock():
     """
     This function scrapes outstanding stock data that I use to calculate market caps for S&P 500 companies.
-    :return:
+    :return: String
     """
     company_cik_dict = get_cik()
     with open("stocks_and_cik.json", encoding='utf-8', mode='w') as output_file:
