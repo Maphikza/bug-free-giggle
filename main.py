@@ -13,6 +13,11 @@ path = r"C:\Users\stapi\chromedriver"
 
 
 def get_cik():
+    """
+    This function gets S&P 500 company information data from wikipedia and converts it to a pandas Dataframe which
+    is then turned into a dictionary to be used in this custom_scraper.
+    :return: Dictionary
+    """
     data = pd.read_html("https://en.wikipedia.org/wiki/List_of_S%26P_500_companies")[0]
     cik_list = list(data['CIK'])
     securities_list = list(data["Security"])
@@ -20,6 +25,10 @@ def get_cik():
 
 
 def fetch_outstanding_stock():
+    """
+    This function scrapes outstanding stock data that I use to calculate market caps for S&P 500 companies.
+    :return:
+    """
     company_cik_dict = get_cik()
     with open("stocks_and_cik.json", encoding='utf-8', mode='w') as output_file:
         json.dump(company_cik_dict, output_file)
@@ -120,10 +129,10 @@ def fetch_outstanding_stock():
         time.sleep(1)
 
         driver.quit()
+    return f"Success at last!"
 
 
 if __name__ == "__main__":
-    fetch_outstanding_stock()
+    print(fetch_outstanding_stock())
     with open("last_run_logs.txt", "a") as log_file:
         log_file.write("Success at last!")
-    print(f"Success!")

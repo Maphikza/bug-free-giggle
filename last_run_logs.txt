@@ -158,7 +158,7 @@
 (https://www.sec.gov/ix?doc=/Archives/edgar/data/1383312/000138331222000052/br-20220930.htm) - data was captured successfully.
 79 Brown & Brown: 79282 appended, successfully.
 (https://www.sec.gov/ix?doc=/Archives/edgar/data/79282/000095017022021976/bro-20220930.htm) - data was captured successfully.
-80 Brown–Forman: 14693 appended, successfully.
+80 Brownï¿½Forman: 14693 appended, successfully.
 (https://www.sec.gov/ix?doc=/Archives/edgar/data/14693/000001469322000151/bfb-20221031.htm) - data was captured successfully.
 81 C.H. Robinson: 1043277 appended, successfully.
 (https://www.sec.gov/ix?doc=/Archives/edgar/data/1043277/000104327722000045/chrw-20220930.htm) - data was captured successfully.
@@ -360,7 +360,7 @@
 (https://www.sec.gov/ix?doc=/Archives/edgar/data/906107/000095017022020464/eqr-20220930.htm) - data was captured successfully.
 180 Essex Property Trust: 920522 appended, successfully.
 (https://www.sec.gov/ix?doc=/Archives/edgar/data/920522/000092052222000062/ess-20220930.htm) - data was captured successfully.
-181 The Estée Lauder Companies: 1001250 appended, successfully.
+181 The Estï¿½e Lauder Companies: 1001250 appended, successfully.
 (https://www.sec.gov/ix?doc=/Archives/edgar/data/1001250/000100125022000182/el-20220930.htm) - data was captured successfully.
 182 Etsy: 1370637 appended, successfully.
 (https://www.sec.gov/ix?doc=/Archives/edgar/data/1370637/000137063722000081/etsy-20220930.htm) - data was captured successfully.
