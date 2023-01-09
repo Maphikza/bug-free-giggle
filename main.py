@@ -121,7 +121,7 @@ def fetch_outstanding_stock():
         amounts_data = driver.find_element(By.XPATH, '//*[@id="taxonomies-menu-list-pagination"]/div[3]')
 
         with open("outstanding_shares_text.txt", "a") as scraped_output:
-            scraped_output.write(f"({i})\n('{new_url}','{amounts_data.text}')\n")
+            scraped_output.write(f"({key})\n'{amounts_data.text}'\n")
         time.sleep(1)
         with open("last_run_logs.txt", "a") as inner_log_file:
             inner_log_file.write(f"{i} {key}: {company_cik_dict[key]} appended, successfully.\n({new_url}) - data was "
